@@ -1,5 +1,5 @@
 
-## Geographical Analysis of Real Estata valuation Prediction New Taipei City
+## Geographical Analysis of Real Estate valuation Prediction New Taipei City
 
   1. House Price Per unit area by Location
 
